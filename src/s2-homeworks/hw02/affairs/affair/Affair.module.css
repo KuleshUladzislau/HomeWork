@@ -1,10 +1,11 @@
 .affair {
     display: flex;
-    align-items: center;
+    align-itemsjus: center;
     width: 185px;
 
     border: 1.5px solid var(--color);
     border-radius: 5px;
+    margin-bottom: 30px;
 }
 
 .name {
